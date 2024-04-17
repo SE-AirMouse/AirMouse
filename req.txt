@@ -1,0 +1,6 @@
+screeninfo
+pyautogui
+mediapipe
+mouse
+numpy
+torch
