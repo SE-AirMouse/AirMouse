@@ -3,8 +3,14 @@ the retrain method is still under developing
 
 because of some technical problems, the result didnt go very well
 
-so the version now is still using mediapipe for hand recognizing
+so the main version of air mouse now is still using mediapipe ONLY
 
-I will try my best to train a better one that can solve the golve issue ouob
+We will try our best to train a better one that can solve the golve issue
 
--- Mingyee
+# how to use
+
+run `run.py`
+
+notice that the controling script is not combined into `run.py` yet
+
+so you have to add it before using it to control ur mouse
